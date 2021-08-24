@@ -1,6 +1,14 @@
 ## Hi there!👋
 
-### Welcome to my Github pag
+### Welcome to my Github page
+
+
+I'm Esperant GADA, student in second year of software engineering. I'm interested in Mobile development: **I aim to be a great android developer**
+
+- 🔭 I’m currently working on ALX-Holberton projects and my personal development projects.
+- 🌱 I’m currently learning android development, Linux command lines.
+- 🤔 I’m looking for help with android development concepts
+- ⚡ Fun fact: “Programmer: A machine that turns coffee into code.”
 
 ### Social links
 
