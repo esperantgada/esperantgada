@@ -1,4 +1,4 @@
-## Hi there, my name's Esperant,student in software engineering!👋
+## Hi there!👋
 
 ### Welcome to my Github pag
 
