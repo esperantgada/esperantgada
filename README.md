@@ -1,11 +1,10 @@
 ## Hi there, my name's Esperant,student in software engineering!👋
 
-### Welcome to my Github page
-![Welcome to my Github page]...
+### Welcome to my Github pag
 
-###Social links
+### Social links
 
-###Top languages
+### Top languages
 <!--
 
 - 🔭 I’m currently working on ...
