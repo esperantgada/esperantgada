@@ -13,6 +13,8 @@ I'm Esperant GADA, student in second year of software engineering. I'm intereste
 ### Social links
 
 ### Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esperantgada&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tools and Technology
 <!--
